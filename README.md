@@ -1,9 +1,7 @@
 # Ironhack-Mini-Project-
 Project of a risk analyst for a bank 
 
-# Credit Card Offer Acceptance - Classification Project
-
-## Project Overview
+## Credit Card Offer Acceptance - Classification Project
 This project aims to build a classification model to predict why some bank customers accept credit card offers while others do not. It was developed as part of a case study for risk analysis in a banking context. The dataset includes 18,000 customer records, focusing on demographic and financial characteristics.
 
 ### Mission
