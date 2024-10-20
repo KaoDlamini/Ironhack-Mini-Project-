@@ -22,15 +22,13 @@ The bank wants to:
 - **Average Balance** and more.
 
 ### Tools & Technologies
-- **Python** (Pandas, Scikit-learn)
+- **MySQL**
 - **Tableau** for data visualization
-- **Machine Learning** models for classification
 
 ### Visualizations
 Access the **Tableau Dashboard** for detailed data exploration: https://public.tableau.com/app/profile/kao.d/viz/CreditCardAnalysis_17294471632510/Dashboard2?publish=yes
 
 ### Deliverables
 - Data analysis and visualizations
-- Model comparison and evaluation
 - Insights for improving credit card marketing strategies
 
