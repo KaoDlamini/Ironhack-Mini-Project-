@@ -27,7 +27,7 @@ The bank wants to:
 - **Machine Learning** models for classification
 
 ### Visualizations
-Access the **Tableau Dashboard** for detailed data exploration: [Tableau Link]
+Access the **Tableau Dashboard** for detailed data exploration: https://public.tableau.com/app/profile/kao.d/viz/CreditCardAnalysis_17294471632510/Dashboard2?publish=yes
 
 ### Deliverables
 - Data analysis and visualizations
